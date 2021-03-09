@@ -1,11 +1,11 @@
-import React from 'react';
-import './App.css';
-import DragAndDrop from './components/dragable/DragAndDrop';
+import React from "react";
+import "./App.css";
+import DragAndDrop from "./components/draggable/DragAndDrop";
 
 function App() {
   return (
     <React.Fragment>
-     <DragAndDrop/>
+      <DragAndDrop />
     </React.Fragment>
   );
 }
